@@ -61,16 +61,10 @@ header nav{
   display: flex;
   align-items: center;
   transition: all 1s;
+  margin-left: 0;
   
 }
-@media (max-width:700px){
-  .menu{
-    margin-left: 20%;
-    
-  }
-  
-}
-@media (max-width:2200px){
+@media (max-width:1100px){
     .menu{
      margin-left:60%;
     }
