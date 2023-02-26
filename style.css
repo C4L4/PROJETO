@@ -140,7 +140,6 @@ section{
 .container{
   width:70%;
   border: 1px solid white;
-  box-sizing: border-box;
 	margin: 0 10%;
 }
 
