@@ -138,16 +138,14 @@ section{
 
 
 .container{
-  display: flex;
-  justify-content:center;
   width:70%;
   border: 1px solid white;
   box-sizing: border-box;
 }
 
 .carrossel{
-	display: flex;
-	justify-content: center;
+	display: grid;
+	place-items: center;
 	
 
 
