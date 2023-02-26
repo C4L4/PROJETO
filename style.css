@@ -69,6 +69,31 @@ header nav{
      margin-left:50%;
      display:grid;
     }
+    .section{
+    width:40%;
+    }
+    .screen1{
+    display:flex;
+    }
+    .container{
+
+    display: flex;
+
+    width: 70%;
+
+  }
+
+  
+
+  .carrossel{
+
+    display: flex;
+
+    justify-content: center;
+
+    transition: all 1s;
+
+  }
 }
 ul{
   list-style: none;
@@ -110,15 +135,7 @@ section{
 
   
 
-@media screen and (min-width:1200px){
-  section{
-    width: 40%;
-  }
-  .screen1{
-    display: flex;
-  }
 
-}
 
 
 .vscode{
@@ -150,18 +167,7 @@ section{
 }
 
 
-@media screen and (min-width:1200px){
-  .container{
-    display: flex;
-    width: 70%;
-  }
-  
-  .carrossel{
-    display: flex;
-    justify-content: center;
-    transition: all 1s;
-  }
-}
+
 
 
 
