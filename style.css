@@ -145,7 +145,10 @@ section{
   box-sizing: border-box;
 }
 
-
+.carrossel{
+	display: flex;
+	justify-content: center;
+	
 
 
 
