@@ -71,45 +71,7 @@ header nav{
     }
     
 }
-@media screen and (max-width:4000px;){
-section{
-
-    width:85%;
-
-    }
-
-    .screen1{
-
-    display:block;
-
-    }
-
-    .container{
-
-    display: flex;
-
-    justify-content: center;
-
-    width: 100%;
-
-  }
-
-    .carrossel{
-
-    display: flex;
-
-    justify-content: center;
-
-    transition: all 1s;
-
-    
-
-}
-}
   
-.screen1{
-display:flex;
-}
   
 ul{
   list-style: none;
@@ -135,7 +97,7 @@ header nav ul li p:hover{
 
 section{
   background-color: 3c3c3c;
-  width: 40%;
+  width: 85%;
   margin: 20px auto 0 auto;
   border: 1px solid white;
   padding: 15px;
