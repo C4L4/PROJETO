@@ -64,7 +64,7 @@ header nav{
   margin-left: 60%;
   
 }
-@media (max-width:800px){
+@media (max-width:700px){
     .menu{
      margin-left:10%;
      display:grid;
@@ -110,7 +110,7 @@ section{
 
   
 
-@media (max-width:700px){
+@media (max-width:900px){
   section{
     width: 40%;
   }
