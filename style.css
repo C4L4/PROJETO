@@ -70,7 +70,7 @@ header nav{
   }
   
 }
-@media (min-width:700px){
+@media (max-width:2200px){
     .menu{
      margin-left:60%;
     }
