@@ -147,7 +147,7 @@ section{
 .dis{
 	display: inline-block;
 	border: 1px solid white;
-	background: #f1f1f1;
+	background: rgb(247,200, 199);
 	margin-left: 48%;
 }
 
