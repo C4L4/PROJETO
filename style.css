@@ -69,18 +69,15 @@ header nav{
      margin-left:50%;
      display:grid;
     }
-    
-}
-@media screen and (min-width:1100px){
-section{
+    section{
 
-    width:40%;
+    width:85%;
 
     }
 
     .screen1{
 
-    display:flex;
+    display:block;
 
     }
 
@@ -88,22 +85,25 @@ section{
 
     display: flex;
 
-    width: 70%;
+    width: 100%;
 
   }
-
-  
-
-  .carrossel{
+    .carrossel{
 
     display: flex;
 
     justify-content: center;
 
     transition: all 1s;
-
-  }
+    
 }
+}
+
+  
+.screen1{
+display:flex;
+}
+  
 ul{
   list-style: none;
   display: flex;
@@ -128,7 +128,7 @@ header nav ul li p:hover{
 
 section{
   background-color: 3c3c3c;
-  width: 85%;
+  width: 40%;
   margin: 20px auto 0 auto;
   border: 1px solid white;
   padding: 15px;
@@ -170,7 +170,7 @@ section{
 
 .container{
   display: flex;
-  width:100%;
+  width:70%;
   border: 1px solid white;
   box-sizing: border-box;
 }
