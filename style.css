@@ -66,7 +66,7 @@ header nav{
 }
 @media screen and (max-width:1100px){
     .menu{
-     margin-left:25%;
+     margin-left:50%;
      display:grid;
     }
 }
@@ -110,7 +110,7 @@ section{
 
   
 
-@media screen and (min-width:1700px){
+@media screen and (min-width:1200px){
   section{
     width: 40%;
   }
