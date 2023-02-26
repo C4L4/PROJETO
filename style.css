@@ -69,7 +69,10 @@ header nav{
      margin-left:50%;
      display:grid;
     }
-    section{
+    
+}
+@media screen and (max-width:1400px;){
+section{
 
     width:85%;
 
@@ -84,22 +87,25 @@ header nav{
     .container{
 
     display: flex;
+
     justify-content: center;
+
     width: 100%;
 
   }
+
     .carrossel{
 
     display: flex;
 
-
     justify-content: center;
 
     transition: all 1s;
-    
-}
-}
 
+    
+
+}
+}
   
 .screen1{
 display:flex;
