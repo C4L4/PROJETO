@@ -58,7 +58,6 @@ header nav{
 }
 
 .menu{
-  margin-left: 60%;
   display: flex;
   align-items: center;
   transition: all 1s;
@@ -66,12 +65,16 @@ header nav{
 }
 @media (max-width:700px){
   .menu{
-    margin-left: 0;
+    margin-left: 20%;
     
   }
   
 }
-
+@media (min-width:700px){
+    .menu{
+     margin-left:60%;
+    }
+}
 ul{
   list-style: none;
   display: flex;
